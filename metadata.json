@@ -1,0 +1,6 @@
+{
+  "name": "Jestem prywatny na 100%",
+  "description": "Profesjonalna aplikacja zabezpieczająca z biometrią, ochroną antyszpiegowską i prywatną komunikacją.",
+  "requestFramePermissions": ["camera", "geolocation", "microphone"],
+  "majorCapabilities": ["Biometric Lock", "AntiSpy Scanner", "Private VPN Comm"]
+}
